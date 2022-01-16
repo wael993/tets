@@ -23,6 +23,7 @@ namespace test
     public class Invoice
     {
         artikel banana = new artikel("banana","somal" ,1);
+        artikel carrot = new artikel("caroot","india" ,1);
 
 
     }
