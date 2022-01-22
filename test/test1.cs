@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace test
 {
+//wael zobani
    public class artikel
     {
         public artikel(string obst_name, string obst_herkunft, int obst_preis)
